@@ -5,8 +5,8 @@ public class Main {
         FileSystemSimulator fs = new FileSystemSimulator();
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("📂 Simulador de Sistema de Arquivos");
-        System.out.println("Comandos: mkdir, touch, ls, rm, rename, copy, showlog, exit");
+        System.out.println("Simulador de Sistema de Arquivos");
+        System.out.println("Comandos: mkdir, touch, ls, rm, rename, copy, showlog, tree, exit");
         System.out.println("Use caminhos como /empresa/documentos/arquivo.txt");
 
         while (true) {
