@@ -84,6 +84,10 @@ Ambas implementam `Serializable`, permitindo serem salvas no `base.dat`.
 
 ### ▶️ Como executar o simulador
 
+1. Clique no botão `Run Java` localizado no canto superior esquerdo da tela.
+
+ou
+
 1. Compile todos os arquivos:
 ```bash
 javac *.java
