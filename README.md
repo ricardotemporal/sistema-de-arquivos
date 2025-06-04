@@ -116,3 +116,7 @@ java Main
 - O arquivo `journal.log` é contínuo, com timestamps, e **não é limpo**.
 - Ao reiniciar o programa, o estado anterior é carregado automaticamente a partir do `base.dat`.
 
+---
+
+### 🔗 Link do projeto no GitHub
+https://github.com/ricardotemporal/sistema-de-arquivos
